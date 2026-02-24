@@ -1,0 +1,41 @@
+:root {
+    --cor-primaria: #FFFFFF;
+    --cor-secundaria: #00030C;
+    --cor-terciaria: #167BF7;
+    --cor-quaternaria: #C0C0C0;
+}
+
+body {
+    background-color: var(--cor-secundaria);
+    color: var(--cor-primaria)
+}
+
+.header {
+
+}
+
+.header__conteudo {
+    background-image: url("../images/Background.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.container {
+    height: 100vh;
+}
+
+.header__conteudo__frase {
+
+}
+
+.header__conteudo__aluraultimate {
+    background-color: var(--cor-terciaria);
+    border-radius: 5px;
+    padding: 1em;
+    color: var(--cor-primaria);
+    display: block;
+}
+
+.header__conteudo__aluraplus {
+
+}
