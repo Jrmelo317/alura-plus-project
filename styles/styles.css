@@ -17,9 +17,6 @@ body {
     font-weight: 400;
 }
 
-.header {
-
-}
 
 .header__conteudo {
     background-image: url("../images/Background.png");
@@ -84,6 +81,18 @@ body {
     margin-bottom: 0.1em;
 }
 
-.descricao_texto {
+.descricao__texto {
     color: var(--cor-quaternaria);
+    margin: 2em;
+}
+
+.secundario__botao {
+    display: inline;
+    margin-top: 10em;
+    margin-left: 2em;
+}
+
+.container__descricao {
+    display: block;
+
 }
