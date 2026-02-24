@@ -65,7 +65,7 @@ body {
     margin: 0 6em;
 }
 
-.secundario__imagem {
+.sceundario__imagem {
     width: 80%;
 }
 
@@ -95,4 +95,8 @@ body {
 .container__descricao {
     display: block;
 
+}
+
+.titulo_notebook {
+    margin-left: 0.6em;
 }
